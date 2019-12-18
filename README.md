@@ -7,3 +7,9 @@ In this repo you will find my coding projects, explanation and results
 ### Supply Chain and Distribution - [Link](https://github.com/wisconsin545/Landing2/tree/master/Supply%20Chain%20and%20Distribution)  
 #### Deployed data science algorithm on real-time data and wrote white paper on preventing Supply Chain Distribution Center failure.  
 [* White Paper: Distribution Center Stability Data Science](https://github.com/wisconsin545/Landing2/blob/master/Supply%20Chain%20and%20Distribution/Quadratic%20Linear%20Estimation.md) 
+
+### Managerial Analytics - [Link](https://github.com/wisconsin545/Landing2/tree/master/Managerial%20Analytics)  
+#### Through clustering, discovered a $45.97 million savings opportunity by converting 1,034 contractors to Team Members. Created enterprise measures for managing cost, stability, quality, speed and security within technology organization. Build predicitive model optimizing $2 billion in technology spend.  
+[* Contractor Conversion Analytics](https://github.com/wisconsin545/Landing2/blob/master/Managerial%20Analytics/Contractor%20Conversion.md)  
+[* Enterprise Measures Analytics](https://github.com/wisconsin545/Landing2/blob/master/Managerial%20Analytics/Enterprise%20Measures%20Analytics.md)  
+[* Predicting Technology Project Spend Data Science](https://github.com/wisconsin545/Landing2/blob/master/Managerial%20Analytics/Predicting%20Technology%20Project%20Spend%20Data%20Science.md) 
